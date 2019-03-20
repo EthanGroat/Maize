@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\groat fam\documents\visual studio 2017\projects\maze\maze\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\groat fam\documents\visual studio 2017\projects\maze\maze\source.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\groat fam\documents\visual studio 2017\projects\maze\maze\source.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\groat fam\documents\visual studio 2017\projects\maze\maze\source.cpp(234): warning C4018: '<': signed/unsigned mismatch
+  maze.vcxproj -> C:\Users\Groat Fam\documents\visual studio 2017\Projects\maze\Debug\maze.exe
+  maze.vcxproj -> C:\Users\Groat Fam\documents\visual studio 2017\Projects\maze\Debug\maze.pdb (Partial PDB)
