@@ -17,4 +17,4 @@ animating the text for a much more fun interface.
 I also made a "crossplatform.h" header file to 
 define common functions differently at compile 
 time, depending on if the operating system is 
-Windows-based or Unix/Linux-based (POSIX).
+Windows-based or Unix/Linux-based.
